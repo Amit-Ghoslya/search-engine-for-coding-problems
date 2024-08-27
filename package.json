@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soumiksbiswas/search_engine.git"
+    "url": "git+https://github.com/amitghoslya/search-engine-for-coding-problems.git"
   },
-  "author": "SSB",
+  "author": "AG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/soumiksbiswas/search_engine/issues"
+    "url": "https://github.com/amitghoslya/search_engine/issues"
   },
-  "homepage": "https://github.com/soumiksbiswas/search_engine#readme"
+  "homepage": "https://github.com/amitghoslya/search_engine#readme"
 }
