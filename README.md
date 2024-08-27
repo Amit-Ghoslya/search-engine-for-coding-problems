@@ -23,5 +23,4 @@ I have performed web scraping on Leetcode problem set using Beautiful Soup 4 and
 Click on this link to check out this project deployed on Heroku:
 [Codesearch](https://codesearch-app.herokuapp.com/)
 
-## Created by
-[@soumiksbiswas](soumiksbiswas@gmail.com)
+
